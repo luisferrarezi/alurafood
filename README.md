@@ -4,7 +4,7 @@ Projeto para estudos de microsserviços
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **AluraFood**
-| :label: Tecnologias | Java
+| :label: Tecnologias | Java, Spring, Maven, Flayway, MySQL
 | :rocket: URL         | 
 | :fire: Desafio     | 
 
@@ -15,14 +15,25 @@ Projeto para estudos de microsserviços
 Projeto para estudos de microsserviços
 
 # Frameworks utilizados 
+- Spring Framework
+- Spring Cloud Discovery
+
+# Dependências 
 - Spring Boot
-- Lombok
-- Flyway
 - Spring Data
 - Spring Validation
 - Spring Web
 - Spring Dev Tools
+- Spring Cloud Netflix Eureka Client
+- Spring Cloud Netflix Eureka Server
+- Spring Cloud Open Feign
+- Spring Cloud Gateway
+- Spring AOP
+- Resilience4j
+- Lombok
+- Flyway
 - Maven
+- ModelMapper
 
 # Banco de dados
 - MySql
