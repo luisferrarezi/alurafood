@@ -1,0 +1,1 @@
+package br.com.alurafood.pedidos.amqp;

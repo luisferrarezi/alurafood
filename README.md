@@ -4,7 +4,7 @@ Projeto para estudos de microsserviços
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **AluraFood**
-| :label: Tecnologias | Java, Spring, Maven, Flayway, MySQL
+| :label: Tecnologias | Java, Spring, Maven, Flayway, MySQL, RabbitMQ
 | :rocket: URL         | 
 | :fire: Desafio     | 
 
@@ -29,6 +29,7 @@ Projeto para estudos de microsserviços
 - Spring Cloud Open Feign
 - Spring Cloud Gateway
 - Spring AOP
+- Spring AMQP
 - Resilience4j
 - Lombok
 - Flyway
